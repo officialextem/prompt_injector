@@ -1,0 +1,11 @@
+[project]
+name = "prompt-injector"
+version = "0.1.0"
+description = "Lokaler Human-in-the-loop Prompt-Sequencer fuer Windows."
+requires-python = ">=3.12"
+dependencies = []
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
+addopts = "-q"

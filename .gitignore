@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+prompt_injector/runs/*.log
+prompt_injector/runs/*/
+prompt_injector/sessions/session_*.json
