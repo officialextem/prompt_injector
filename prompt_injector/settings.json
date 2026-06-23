@@ -1,0 +1,16 @@
+{
+    "last_directory":  "",
+    "always_on_top":  false,
+    "hotkeys":  {
+                    "paste":  "f7",
+                    "copy":  "f6",
+                    "stop":  "f9",
+                    "done_next":  "f8"
+                },
+    "paste_mode":  "clipboard",
+    "target_window_title":  "",
+    "restore_clipboard":  true,
+    "auto_send_after_paste":  false,
+    "enable_global_hotkeys":  false,
+    "window_geometry":  "980x680"
+}
